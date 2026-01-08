@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini AI Studio",
+  "description": "An all-in-one AI playground demonstrating Gemini's text, image, and real-time audio capabilities using the latest GenAI SDK.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
